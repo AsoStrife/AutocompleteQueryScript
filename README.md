@@ -23,4 +23,4 @@ autocomplete.js launch an ajax request to Welcome/getCity in order to execute a 
 
 getCity() method return a json format data in order to be parsed by autocomplete.js an added into a textbox.
 
-Demo:  [Click here](http://autocompletequeryscript.andreacorriga.com/)
+Demo not more available
